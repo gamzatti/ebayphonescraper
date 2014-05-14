@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/22363268/cross-origin-request-blocked
+http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging
+http://www.ebay.co.uk/csc/Mobile-Smart-Phones-/9355/i.html?_armrs=1&_from=&_pcats=15032&_ipg=200&Brand=Samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S%2520IV&LH_Complete=1&LH_Sold=1&rt=nc
+http://developer.ebay.com/DevZone/shopping/docs/CallRef/FindPopularItems.html
+http://developer.ebay.com/DevZone/shopping/docs/Concepts/ShoppingAPI_FormatOverview.html#StandardURLParameters
+http://developer.ebay.com/DevZone/finding/CallRef/findItemsByProduct.html#Request.productId
+
