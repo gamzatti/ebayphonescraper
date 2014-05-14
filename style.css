@@ -1,0 +1,21 @@
+body {
+  font-family: helvetica;
+}
+
+#wrapper {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #99ddee;
+
+}
+
+h1 {
+  font-family: arial, serif;
+  text-align: center;
+}
+
+
+.results {
+  display:none;
+}
